@@ -2,7 +2,7 @@
 
 ### Description
 
-Ce mini-projet a été créé dans le cadre de l'UV AP4A. Ce projet a pour but la realisation d’un simulateur, permettant de modeliser un
+Ce mini-projet a été créé dans le cadre de l'UV AP4A durant la 1re année d’école d’ingénieur à l’UTBM. Ce projet a pour but la realisation d’un simulateur, permettant de modeliser un
 ecosysteme IOT specialise dans le monitoring de qualite de l’air d’espace de travail.
 
 Plus de détails sont à retrouver dans "sujet.pdf" ou dans le rapport.
